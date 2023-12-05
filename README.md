@@ -1,4 +1,7 @@
-![basic](https://github.com/arshavirmirzakhani/Basic/assets/76659587/dd1e1312-c400-4bf2-8210-2bb532066627)
+<p align="center">
+  <img width="640" height="320" src="https://github.com/arshavirmirzakhani/Basic/assets/76659587/dd1e1312-c400-4bf2-8210-2bb532066627">
+</p>
+
 # Basic
 a Basic game engine designed for simple games
 
