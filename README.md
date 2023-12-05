@@ -16,8 +16,7 @@ a Basic game engine designed for simple games
 
 ## about
 
-welcome to Basic game engine github repository , this game engine is designed to be simple
-Basic is made crossplatform by turning game data into c++ source code (or project files) to give user freedom of compilation/deployment proccess
+Welcome to Basic, a game engine designed for simple games. With its easy-to-use, lightweight and portable Lua-based scripting engine, Basic gives users the freedom to compile and deploy games with source code or project files. 
 
 ## features
 
